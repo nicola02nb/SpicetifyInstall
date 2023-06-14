@@ -1,4 +1,6 @@
 # Installazione Spicetify
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/nicola02nb/SpicetifyInstall/blob/main/README.md)
+[![it](https://img.shields.io/badge/lang-it-green.svg)](https://github.com/nicola02nb/SpicetifyInstall/blob/main/README.it.md)
 
 Copia tutto e Incolla su Powershell
 
