@@ -7,7 +7,7 @@ Copia tutto e Incolla su Powershell
 
 ### 1) Download, installazione e avvio di spicetify:
 ```bash
-iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.ps1 | iex`
+iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.ps1 | iex
 spicetify backup apply -Y
 ```
 
