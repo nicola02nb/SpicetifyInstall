@@ -7,7 +7,7 @@ Copy all commands abd paste inside a Powershell
 
 ### 1) Download, installation and running Spicetify:
 ```bash
-iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.ps1 | iex`
+iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.ps1 | iex
 spicetify backup apply -Y
 ```
 
