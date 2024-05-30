@@ -13,7 +13,7 @@ spicetify backup apply -Y
 
 ### 2) Downloading the ad-blocker with the following commands:
 ```bash
-Invoke-WebRequest -Uri https://raw.githubusercontent.com/CharlieS1103/spicetify-extensions/main/adblock/adblock.js -OutFile ~\appdata\roaming\spicetify\Extensions\adblock.js
+Invoke-WebRequest -Uri https://raw.githubusercontent.com/rxri/spicetify-extensions/main/adblock/adblock.js -OutFile ~\appdata\roaming\spicetify\Extensions\adblock.js
 ```
 
 ### 3) Enabling the ad-blocker with the following commands:
